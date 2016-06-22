@@ -18,7 +18,7 @@ function build(){
     .pipe(vfs.dest('./build'))
     .pipe(uglify())
     .pipe(rename({
-        suffix: "-min"
+        suffix: ".min"
     }))
     .pipe(vfs.dest('./build'))
 }
