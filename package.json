@@ -1,0 +1,26 @@
+{
+  "name": "real-interval",
+  "version": "0.0.1",
+  "description": "zepto for umd",
+  "main": "./build/zepto.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hapjs/zeptor.git"
+  },
+  "keywords": [
+    "zepto",
+    "npm",
+    "umd"
+  ],
+  "author": "hapjs <mailhap@qq.com>",
+  "devDependencies": {
+    "download": "^5.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "vinyl-fs": "^2.4.3"
+  }
+}
