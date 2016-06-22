@@ -2,7 +2,7 @@
 
 The latest version (v1.1.6) of zepto.
 
-[zepto.com](http://zepto.com)
+[http://zeptojs.com](http://zeptojs.com)
 
 ## install
 
