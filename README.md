@@ -1,6 +1,6 @@
 # Zeptor
 
-The latest version (v1.1.6) of zepto.
+The latest version (v1.2.0) of zepto.
 
 [http://zeptojs.com](http://zeptojs.com)
 

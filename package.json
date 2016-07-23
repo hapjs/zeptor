@@ -1,6 +1,6 @@
 {
   "name": "zeptor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "zepto for umd",
   "main": "./build/zepto.js",
   "scripts": {
